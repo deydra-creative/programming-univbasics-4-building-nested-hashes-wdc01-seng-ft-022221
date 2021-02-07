@@ -81,10 +81,5 @@ monopoly = {
       {
         :mortgage_value=>800 
       }
-    }
-  }
-}
-}
-
-
+    
 end
